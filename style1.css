@@ -1,0 +1,164 @@
+
+*{margin: 0;
+    font-family: Arial;
+    border:border-box;
+
+}
+.navbar{height: 100px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 1.1rem;
+
+}
+
+.singh{height: 60px;
+    background-color: black;
+    color: white;
+       
+}
+.syntax1{background-color: rgb(218, 137, 15);
+    height: 40px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 40%;
+    
+}
+.syntax2{background-color: rgb(14, 209, 24);
+    height: 40px;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30%;
+    margin-right:300px;
+    
+}
+.syntax5{background-image: url("logo.jpg");
+    background-size: cover;
+    height: 60px;
+    width: 210px;
+    display: flex;
+    background-color: black;
+
+
+
+}
+
+.syntax3{margin-right: 400px;}
+
+.syntax4{margin-right: 400px;}
+
+.border:hover{border:1.5px solid rgb(206, 189, 40);
+    
+}
+
+.main1{height: 400px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.box{height: 300px;
+    width: 300px;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+    margin-left: 10px;
+
+}
+
+.box-img{height: 300px;
+    background-size: cover;
+    display: flex;
+    justify-items: center;
+   margin-left: 0.5rem;
+   margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-color: white;
+       
+}
+
+h2{margin-left: 100px;
+    display: flex;
+
+}
+.main2{height: 80px;
+    background-color: rgb(37, 35, 35);
+    color: white;
+       
+}
+.main3{height: 400px;
+    background-color:rgba(37,35,35);
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+    
+.boxansh{height: 350px;
+    width: 250px;
+    
+    border-radius: 70%;
+
+}
+.box4{background-image: url("song4.jpg");
+    background-size: cover;
+    height: 300px;
+}
+    .box11{background-image: url("song5.jpg");
+        background-size: cover;
+        height: 300px; 
+    }
+
+    .box12{background-image: url("song6.jpg");
+        background-size: cover;
+        height: 300px;}
+
+        .box13{background-image: url("song7.jpg");
+            background-size: cover;
+            height: 300px;}
+    
+
+
+.h2{position: relative;
+    top: 110%;
+    right: 15%;
+    display: flex;
+
+}
+.main4{height: 50px;
+    background-color: black;
+    color: white;
+       
+}
+.main5{height: 380px;
+    background-color:black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer1{height: 100px;
+    background-color:rgba(37,35,35);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 1.1rem;
+
+
+
+}  
+    
+.syntax6{color:rgb(190, 194, 201);
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 2.5rem;
+    background-color: rgb(44, 41, 41);
+}
