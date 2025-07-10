@@ -38,7 +38,7 @@
     margin-right:300px;
     
 }
-.syntax5{background-image: url("songimg/logo.jpg");
+.syntax5{background-image: url("./songimg/logo.jpg");
     background-size: cover;
     height: 60px;
     width: 210px;
@@ -105,20 +105,20 @@ h2{margin-left: 100px;
     border-radius: 70%;
 
 }
-.box4{background-image: url("songimg/song4.jpg");
+.box4{background-image: url("./songimg/song4.jpg");
     background-size: cover;
     height: 300px;
 }
-    .box11{background-image: url("songimg/song5.jpg");
+    .box11{background-image: url("./songimg/song5.jpg");
         background-size: cover;
         height: 300px; 
     }
 
-    .box12{background-image: url("songimg/song6.jpg");
+    .box12{background-image: url("./songimg/song6.jpg");
         background-size: cover;
         height: 300px;}
 
-        .box13{background-image: url("songimg/song7.jpg");
+        .box13{background-image: url("./songimg/song7.jpg");
             background-size: cover;
             height: 300px;}
     
